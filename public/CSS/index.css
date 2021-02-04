@@ -1,0 +1,174 @@
+body{
+    background-color:#212C66
+}
+
+.signup{
+    color: aliceblue;
+    margin-left: 430px;
+    font-size: 30px;
+}
+
+#name {
+    background-color: #E99D79;
+    border-radius: 18px ;
+    padding: 10px;
+    text-align: center;
+    border: none;
+    margin-top: 10px;
+    margin-left: 45px;
+    outline: none;
+    color: aliceblue;
+}
+
+.name{
+    margin-left: 300px;
+    color: aliceblue;
+}
+
+.password{
+    margin-left: 300px;
+    color: aliceblue;
+}
+
+.email{
+    margin-left: 300px;
+    color: aliceblue;
+}
+
+#email{
+    background-color: #E99D79;
+    border-radius: 18px ;
+    padding: 10px;
+    text-align: center;
+    border: none;
+    margin-top: 10px;
+    margin-left: 37px;
+    outline: none;
+    color: aliceblue
+}
+
+#password{
+    background-color: #E99D79;
+    border-radius: 18px ;
+    padding: 10px;
+    margin-left:10px;
+    text-align: center;
+    border: none;
+    margin-top: 10px;
+    outline: none;
+    color: aliceblue
+}
+
+
+.btn{
+    background: #E99D79;
+    outline: none;
+    border: none;
+    margin-top:30px;
+    margin-left: 525px;
+    cursor: pointer;
+    text-align: center;
+    color: aliceblue;
+    padding: 7px 10px 6px 10px;
+    border-radius: 10px;
+}
+
+.btn:hover{
+    background-color: plum;
+    color: #212C66  ;
+}
+
+.loggin{
+    border: none;
+    color: aliceblue;
+    text-align: center;
+    outline: none;
+    padding:5px 10px 5px 10px;
+    margin-left:300px;
+    position: absolute;
+    margin-top: -25px;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: #E99D79;
+    border-radius: 12px;
+}
+
+.loggin:hover{
+    background-color: plum;
+    color: #212C66  ;
+}
+
+.login{
+    color: aliceblue;
+    margin-left: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+.loginbtn{
+    background: #E99D79;
+    outline: none;
+    border: none;
+    margin-top:30px;
+    margin-left: 525px;
+    cursor: pointer;
+    text-align: center;
+    color: aliceblue;
+    padding: 7px 10px 6px 10px;
+    border-radius: 10px; 
+}
+
+
+.loginbtn:hover{
+    background-color: plum;
+    color: #212C66  ;
+}
+
+
+.regis{
+    border: none;
+    color: aliceblue;
+    text-align: center;
+    outline: none;
+    padding:5px 10px 5px 10px;
+    margin-left:300px;
+    position: absolute;
+    margin-top: -25px;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: #E99D79;
+    border-radius: 12px;
+}
+
+.regis:hover{
+    background-color: plum;
+    color: #212C66  ;
+}
+
+.ju{
+    color: white;
+    margin-top: 200px;
+    margin-left:500px;
+    font-size:25px;
+}
+.logout{
+    border: none;
+    color: aliceblue;
+    text-align: center;
+    outline: none;
+    padding:5px 10px 5px 10px;
+    top:1px;
+    right: 0;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: #E99D79;
+    border-radius: 12px;
+    position:fixed;
+}
+
+.logout:hover{
+    background-color: plum;
+    color: #212C66  ;
+    cursor: pointer;   
+}

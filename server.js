@@ -8,6 +8,7 @@ const app = express()
 const bcrypt = require("bcrypt");
 const passport = require('passport')
 const methodOverride = require('method-override')
+app.use(express.static("public"));
 const flash = require('express-flash')
 const session = require('express-session')
 const initializePassport = require("./passport-config")
